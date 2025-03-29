@@ -4,7 +4,7 @@ This repository provides a class to retrieve sunshine data for a given address i
 
 ## Usage
 
-Get sunshine datas for specific address and datetime :
+Get sunshine data for specific address and datetime :
 ```python
 sunshine_data = SunshineLocation(address, datetime).datetime_sunshine
 ```
